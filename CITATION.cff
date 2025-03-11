@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Reed
+    given-names: Jordan
+title: "Markov Chain and Gantt Charts"
+version: 1.0.0
+date-released: 2025-03-11
